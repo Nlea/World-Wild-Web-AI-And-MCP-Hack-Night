@@ -8,7 +8,7 @@ We recommend getting familiar with the challenge before the hacknight, as it wil
 - Node.js and a JS package manager (npm, yarn, pnpm, bun) installed
 - A [Cloudflare account](https://dash.cloudflare.com/sign-up)
 - A GitHub account
-- [Genimi API key](https://aistudio.google.com/apikey)
+- [Gemini API key](https://aistudio.google.com/apikey)
 
 ## The Challenge
 This hacknight is all about exploration and creativity with AI agents and MCP servers! Build something that excites you - whether it's practical, experimental, or just fun.
