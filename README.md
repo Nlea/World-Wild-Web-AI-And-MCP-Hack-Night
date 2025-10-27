@@ -62,4 +62,4 @@ Once you have your MCP server running, you need a client to connect to it for de
 - [Cloudflare Agents SDK](https://github.com/cloudflare/agents) as a client
 
 ## Submission
-Use [this form](https://forms.gle/tk6WTwspjHrLJjxBA) to submit your project and indicate if you'd like to demo at the end of our Hack Night. Please provide a brief description of your project and any relevant links.
+Use [this form](https://forms.gle/VY2p1AGgdKDCiwJ57) to submit your project and indicate if you'd like to demo at the end of our Hack Night. Please provide a brief description of your project and any relevant links.
